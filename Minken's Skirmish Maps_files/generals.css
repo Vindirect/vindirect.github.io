@@ -1,0 +1,63 @@
+<STYLE TYPE="text/css">
+
+BODY { color : white}
+
+A:link		{ color:#99CCFF; ; text-decoration: none}
+A:visited	{ color:#99CCFF; ; text-decoration: none}
+A:hover   {
+	color:#FFFFCC;
+	;
+	text-decoration: underline;
+	background-color: #000000;
+}
+A:active {  color: #99CCFF; text-decoration: none}
+
+P { color : #999999; font-size : 10pt; font-weight: normal; font-family : Verdana, Arial, Helvetica, sans-serif;}
+
+h3 { color : #000099; font-size : 12pt; font-weight: bold; font-family : Arial, Helvetica, sans-serif; }
+h4 { color : #FFFFCC; font-size : 10pt; font-weight: normal; font-family : Verdana, Arial, Helvetica, sans-serif; ; font-style: normal}
+h2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-variant: normal; text-transform: none; color: #CCCCCC; font-weight: bold}
+h3 { color : #999900; font-size : 12pt; font-weight: bold; font-family : Verdana, Arial, Helvetica, sans-serif; ; font-style: normal}
+h1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16pt; font-style: normal; font-weight: normal; color: #999900}
+
+</STYLE>
+body {  background-color: #FFFFFF}
+.TextureTable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+}
+.TextureTable2 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+}
+.TextureTableWhite {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+}
+.TextureTableWhite2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+
+}
